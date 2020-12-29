@@ -11,15 +11,15 @@
 
 ## 📅 스터디 진행
 
-| 차수               | 모임날짜  | 문제                                                         | 유형        |
-| ------------------ | --------- | ------------------------------------------------------------ | ----------- |
-| 1주차(12.21~12.25) | 12.25(금) | [입체기동장치 생산공장](https://codeup.kr/problem.php?id=1805)<br />[데이터 재정렬](https://codeup.kr/problem.php?id=3004) | 구조체      |
-|                    |           | [(재귀 함수) 1부터 n까지 출력하기](https://codeup.kr/problem.php?id=1901)<br />[(재귀 함수) 1부터 n까지 역순으로 출력하기](https://codeup.kr/problem.php?id=1902) | 재귀함수    |
-| 2주차(12.26~1.1)   | 1.1(금)   | [아스키코드](https://www.acmicpc.net/problem/11654)<br />[숫자의합](https://www.acmicpc.net/problem/11720) | 문자열      |
-|                    |           | [손익분기점](https://www.acmicpc.net/problem/1712)<br />[설탕배달](https://www.acmicpc.net/problem/2839) | 수학1       |
-|                    |           | [소수찾기](https://www.acmicpc.net/problem/1978)<br />[소수](https://www.acmicpc.net/problem/2581) | 수학2       |
-|                    |           | [팩토리얼](https://www.acmicpc.net/problem/10872)<br />[피보나치 수 5](https://www.acmicpc.net/problem/10870) | 재귀        |
-|                    |           | [블랙잭](https://www.acmicpc.net/problem/2798)<br />[분해합](https://www.acmicpc.net/problem/2231) | 브루트 포스 |
+| 차수               | 모임날짜  | 문제                                                         | 유형        | 제출완료                                                     |
+| ------------------ | --------- | ------------------------------------------------------------ | ----------- | ------------------------------------------------------------ |
+| 1주차(12.21~12.25) | 12.25(금) | [입체기동장치 생산공장](https://codeup.kr/problem.php?id=1805)<br />[데이터 재정렬](https://codeup.kr/problem.php?id=3004) | 구조체      | 제출✅<br />제출✅                                             |
+|                    |           | [(재귀 함수) 1부터 n까지 출력하기](https://codeup.kr/problem.php?id=1901)<br />[(재귀 함수) 1부터 n까지 역순으로 출력하기](https://codeup.kr/problem.php?id=1902) | 재귀함수    |                                                              |
+| 2주차(12.26~1.1)   | 1.1(금)   | [아스키코드](https://www.acmicpc.net/problem/11654)<br />[숫자의합](https://www.acmicpc.net/problem/11720) | 문자열      | [제출✅](https://github.com/FridayAlgorithm/juhee_study/blob/main/BOJ/STRING/11654.py)<br />[제출✅](https://github.com/FridayAlgorithm/juhee_study/blob/main/BOJ/STRING/11720.py) |
+|                    |           | [손익분기점](https://www.acmicpc.net/problem/1712)<br />[설탕배달](https://www.acmicpc.net/problem/2839) | 수학1       |                                                              |
+|                    |           | [소수찾기](https://www.acmicpc.net/problem/1978)<br />[소수](https://www.acmicpc.net/problem/2581) | 수학2       |                                                              |
+|                    |           | [팩토리얼](https://www.acmicpc.net/problem/10872)<br />[피보나치 수 5](https://www.acmicpc.net/problem/10870) | 재귀        |                                                              |
+|                    |           | [블랙잭](https://www.acmicpc.net/problem/2798)<br />[분해합](https://www.acmicpc.net/problem/2231) | 브루트 포스 |                                                              |
 
 
 
