@@ -19,7 +19,7 @@
 |                    |           | [손익분기점](https://www.acmicpc.net/problem/1712)<br />[설탕배달](https://www.acmicpc.net/problem/2839) | 수학1       | [제출✅](https://github.com/FridayAlgorithm/juhee_study/blob/main/BOJ/MATH/1712.py)<br />[제출✅](https://github.com/FridayAlgorithm/juhee_study/blob/main/BOJ/MATH/2839.py) |
 |                    |           | [소수찾기](https://www.acmicpc.net/problem/1978)<br />[소수](https://www.acmicpc.net/problem/2581) | 수학2       | [제출✅](https://github.com/FridayAlgorithm/juhee_study/blob/main/BOJ/MATH/1978.py)<br />[제출✅](https://github.com/FridayAlgorithm/juhee_study/blob/main/BOJ/MATH/2581.py) |
 |                    |           | [팩토리얼](https://www.acmicpc.net/problem/10872)<br />[피보나치 수 5](https://www.acmicpc.net/problem/10870) | 재귀        | [제출✅](https://github.com/FridayAlgorithm/juhee_study/blob/main/BOJ/RECURSION/10872.py)<br />[제출✅](https://github.com/FridayAlgorithm/juhee_study/blob/main/BOJ/RECURSION/10870.py) |
-|                    |           | [블랙잭](https://www.acmicpc.net/problem/2798)<br />[분해합](https://www.acmicpc.net/problem/2231) | 브루트 포스 |                                                              |
+|                    |           | [블랙잭](https://www.acmicpc.net/problem/2798)<br />[분해합](https://www.acmicpc.net/problem/2231) | 브루트 포스 | [제출✅](https://github.com/FridayAlgorithm/juhee_study/blob/main/BOJ/BRUTE_FORCE/2798.py)<br />제출 |
 
 
 
