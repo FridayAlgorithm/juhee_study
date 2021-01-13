@@ -25,6 +25,11 @@
 |                    |           | [피보나치 수 2](https://www.acmicpc.net/problem/2748) <br />[피보나치 함수](https://www.acmicpc.net/problem/1003) | 동적 계획법1    |                                                              |
 |                    |           | [동전 0](https://www.acmicpc.net/problem/11047) <br />[회의실배정](https://www.acmicpc.net/problem/1931) | 그리디 알고리즘 |                                                              |
 |                    |           | [배수와 약수](https://www.acmicpc.net/problem/5086)<br />[약수](https://www.acmicpc.net/problem/1037) | 수학3           |                                                              |
+| 4주차(1.9~1.15)    | 1.15(금)  | [스택](https://www.acmicpc.net/problem/10828)<br />[제로](https://www.acmicpc.net/problem/10773) | 스택            | [제출✅](https://github.com/FridayAlgorithm/juhee_study/blob/main/BOJ/STACK/10828.py)<br />[제출✅](https://github.com/FridayAlgorithm/juhee_study/blob/main/BOJ/STACK/10773.py) |
+|                    |           | [큐 2](https://www.acmicpc.net/problem/18258)<br />[카드2](https://www.acmicpc.net/problem/2164) | 큐, 덱          | [제출✅](https://github.com/FridayAlgorithm/juhee_study/blob/main/BOJ/QUEUE_DEQUE/18258.py)<br />[제출✅](https://github.com/FridayAlgorithm/juhee_study/blob/main/BOJ/QUEUE_DEQUE/2164.py) |
+|                    |           | [색종이 만들기](https://www.acmicpc.net/problem/2630)<br />[쿼드트리](https://www.acmicpc.net/problem/1992) | 분할 정복       |                                                              |
+|                    |           | [수 찾기](https://www.acmicpc.net/problem/1920)<br />[숫자 카드2](https://www.acmicpc.net/problem/10816) | 이분 탐색       |                                                              |
+|                    |           | [최대 힙](https://www.acmicpc.net/problem/11279)<br />[최소 힙](https://www.acmicpc.net/problem/1927) | 우선순위 큐     |                                                              |
 
 
 
