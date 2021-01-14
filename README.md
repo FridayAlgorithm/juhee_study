@@ -28,8 +28,8 @@
 | 4주차(1.9~1.15)    | 1.15(금)  | [스택](https://www.acmicpc.net/problem/10828)<br />[제로](https://www.acmicpc.net/problem/10773) | 스택            | [제출✅](https://github.com/FridayAlgorithm/juhee_study/blob/main/BOJ/STACK/10828.py)<br />[제출✅](https://github.com/FridayAlgorithm/juhee_study/blob/main/BOJ/STACK/10773.py) |
 |                    |           | [큐 2](https://www.acmicpc.net/problem/18258)<br />[카드2](https://www.acmicpc.net/problem/2164) | 큐, 덱          | [제출✅](https://github.com/FridayAlgorithm/juhee_study/blob/main/BOJ/QUEUE_DEQUE/18258.py)<br />[제출✅](https://github.com/FridayAlgorithm/juhee_study/blob/main/BOJ/QUEUE_DEQUE/2164.py) |
 |                    |           | [색종이 만들기](https://www.acmicpc.net/problem/2630)<br />[쿼드트리](https://www.acmicpc.net/problem/1992) | 분할 정복       |                                                              |
-|                    |           | [수 찾기](https://www.acmicpc.net/problem/1920)<br />[숫자 카드2](https://www.acmicpc.net/problem/10816) | 이분 탐색       |                                                              |
-|                    |           | [최대 힙](https://www.acmicpc.net/problem/11279)<br />[최소 힙](https://www.acmicpc.net/problem/1927) | 우선순위 큐     |                                                              |
+|                    |           | [수 찾기](https://www.acmicpc.net/problem/1920)<br />[숫자 카드2](https://www.acmicpc.net/problem/10816) | 이분 탐색       | [제출✅](https://github.com/FridayAlgorithm/juhee_study/blob/main/BOJ/BINARY_SEARCH/1920.py)<br />[제출✅](https://github.com/FridayAlgorithm/juhee_study/blob/main/BOJ/BINARY_SEARCH/10816.py) |
+|                    |           | [최대 힙](https://www.acmicpc.net/problem/11279)<br />[최소 힙](https://www.acmicpc.net/problem/1927) | 우선순위 큐     | [제출✅](https://github.com/FridayAlgorithm/juhee_study/blob/main/BOJ/PRIORITY_QUEUE/11279.py)<br />[제출✅](https://github.com/FridayAlgorithm/juhee_study/blob/main/BOJ/PRIORITY_QUEUE/1927.py) |
 
 
 
