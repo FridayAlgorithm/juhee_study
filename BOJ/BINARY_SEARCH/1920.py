@@ -7,7 +7,6 @@ import sys
 def binary_search(arr, value, start, end) :
     if start > end: # start 가 end 보다 커지는 순간 멈추기
         return False
-    
     mid = (start + end) // 2
 
     if arr[mid] > value: # 찾고자 하는 value 보다 작으면
