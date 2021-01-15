@@ -7,7 +7,7 @@ def insert(heap, x):
     i = len(heap) - 1
 
     while i > 1:
-        if heap[i//2] > heap[i] : # 부모가 자식보다 작다면 교체
+        if heap[i//2] > heap[i] : # 부모가 자식보다 크다면 교체
             heap[i], heap[i//2] = heap[i//2], heap[i] # swap
             i = i // 2    
         else:
