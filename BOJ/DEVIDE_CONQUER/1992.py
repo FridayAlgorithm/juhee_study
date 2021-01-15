@@ -1,5 +1,5 @@
 #-*- encoding: utf-8 -*-
-"""쿼드 트리"""
+"""쿼드트리"""
 
 import sys
 N = int(sys.stdin.readline())
