@@ -30,7 +30,11 @@
 |                    |           | [색종이 만들기](https://www.acmicpc.net/problem/2630)<br />[쿼드트리](https://www.acmicpc.net/problem/1992) | 분할 정복       | [제출✅](https://github.com/FridayAlgorithm/juhee_study/blob/main/BOJ/DEVIDE_CONQUER/2630.py)<br />[제출✅](https://github.com/FridayAlgorithm/juhee_study/blob/main/BOJ/DEVIDE_CONQUER/1992.py) |
 |                    |           | [수 찾기](https://www.acmicpc.net/problem/1920)<br />[숫자 카드2](https://www.acmicpc.net/problem/10816) | 이분 탐색       | [제출✅](https://github.com/FridayAlgorithm/juhee_study/blob/main/BOJ/BINARY_SEARCH/1920.py)<br />[제출✅](https://github.com/FridayAlgorithm/juhee_study/blob/main/BOJ/BINARY_SEARCH/10816.py) |
 |                    |           | [최대 힙](https://www.acmicpc.net/problem/11279)<br />[최소 힙](https://www.acmicpc.net/problem/1927) | 우선순위 큐     | [제출✅](https://github.com/FridayAlgorithm/juhee_study/blob/main/BOJ/PRIORITY_QUEUE/11279.py)<br />[제출✅](https://github.com/FridayAlgorithm/juhee_study/blob/main/BOJ/PRIORITY_QUEUE/1927.py) |
-| 5주차(1.16~1.22)   | 1.22(금)  |                                                              |                 |                                                              |
+| 5주차(1.16~1.22)   | 1.22(금)  | [별 찍기 - 10](https://www.acmicpc.net/problem/2447)<br />[하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729) | 재귀            |                                                              |
+|                    |           | [덩치](https://www.acmicpc.net/problem/7568)<br />[체스판 다시 칠하기](https://www.acmicpc.net/problem/1018) | 브루트포스      |                                                              |
+|                    |           | [N과 M (3)](https://www.acmicpc.net/problem/15651)<br />[N과 M (4)](https://www.acmicpc.net/problem/15652) | 백트래킹        |                                                              |
+|                    |           | [01타일](https://www.acmicpc.net/problem/1904)<br />[파도반 수열](https://www.acmicpc.net/problem/9461) | 동적 계획법 1   |                                                              |
+|                    |           | [DFS와 BFS](https://www.acmicpc.net/problem/1260)<br />[바이러스](https://www.acmicpc.net/problem/2606) | DFS와 BFS       |                                                              |
 
 
 
