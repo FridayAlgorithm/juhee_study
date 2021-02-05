@@ -40,6 +40,11 @@
 |                    |                           | [배수와 약수](https://www.acmicpc.net/problem/5086)<br />[약수](https://www.acmicpc.net/problem/1037) | 정수론 및 조합론 |                                                              |
 |                    |                           | [괄호](https://www.acmicpc.net/problem/9012)<br />[균형잡힌 세상](https://www.acmicpc.net/problem/4949) | 스택             | 제출✅<br />제출✅                                             |
 |                    |                           | [요세푸스 문제 0](https://www.acmicpc.net/problem/11866)<br />[프린터 큐](https://www.acmicpc.net/problem/1966) | 큐, 덱           | 제출✅<br />제출✅                                             |
+| 7주차(1.30~2.5)    | 2.5(금)                   | 계단 오르기<br />1로 만들기                                  | 동적 계획법1     | 제출✅                                                        |
+| 14, 19, 20, 21, 23 |                           | 종이의 개수<br />곱셈                                        | 분할 정복        | <br />제출✅                                                  |
+|                    |                           | 랜선 자르기<br />나무 자르기                                 | 이분 탐색        | 제출✅                                                        |
+|                    |                           | 절댓값 힙<br />가운데를 말해요                               | 우선순위 큐      |                                                              |
+|                    |                           | [단지번호붙이기](https://www.acmicpc.net/problem/2667)<br />[유기농 배추](https://www.acmicpc.net/problem/1012) | DFS와 BFS        | [제출✅](https://github.com/FridayAlgorithm/juhee_study/blob/main/BOJ/DFS_BFS/2667.py)<br />[제출✅](https://github.com/FridayAlgorithm/juhee_study/blob/main/BOJ/DFS_BFS/1012.py) |
 
 
 
